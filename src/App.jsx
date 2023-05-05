@@ -840,6 +840,19 @@ import VideInterCom_4_2_2 from './pages/VideInterCom_4_2_2';
 import VideInterCom_4_2_2_1 from './pages/VideInterCom_4_2_2_1.JSX';
 import VideInterCom_4_2_2_2 from './pages/VideInterCom_4_2_2_2';
 import VideInterCom_4_2_2_3 from './pages/VideInterCom_4_2_2_3';
+import Terminal_14_1 from './pages/Terminal_14_1';
+import Terminal_14_1_1 from './pages/Terminal_14_1_1';
+import Terminal_14_1_2 from './pages/Terminal_14_1_2';
+import Terminal_14_2 from './pages/Terminal_14_2';
+import Terminal_14_2_1 from './pages/Terminal_14_2_1';
+import Terminal_14_2_2 from './pages/Terminal_14_2_2';
+import Terminal_14_3 from './pages/Terminal_14_3';
+import Terminal_14_3_1 from './pages/Terminal_14_3_1';
+import Terminal_14_3_2 from './pages/Terminal_14_3_2';
+import Terminal_14_4 from './pages/Terminal_14_4';
+import Terminal_14_4_1 from './pages/Terminal_14_4_1';
+import Terminal_14_5 from './pages/Terminal_14_5';
+import Terminal_14_5_1 from './pages/Terminal_14_5_1';
 
 
 
@@ -1570,7 +1583,27 @@ function App() {
         <Route path='/Firmware/Hikvision/Access Control/Terminal/13/5/2' element={<Terminal_13_5_2 />} />
 
         <Route path='/Firmware/Hikvision/Access Control/Terminal/14' element={<Terminal_14 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/14/1' element={<Terminal_14_1 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/14/1/1' element={<Terminal_14_1_1 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/14/1/2' element={<Terminal_14_1_2 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/14/2' element={<Terminal_14_2 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/14/2/1' element={<Terminal_14_2_1 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/14/2/2' element={<Terminal_14_2_2 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/14/3' element={<Terminal_14_3 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/14/3/1' element={<Terminal_14_3_1 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/14/3/2' element={<Terminal_14_3_2 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/14/4' element={<Terminal_14_4 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/14/4/1' element={<Terminal_14_4_1 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/14/5' element={<Terminal_14_5 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/14/5/1' element={<Terminal_14_5_1 />} />
+
         <Route path='/Firmware/Hikvision/Access Control/Terminal/15' element={<Terminal_15 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/15/1' element={<Terminal_15_1 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/15/2' element={<Terminal_15_2 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/15/3' element={<Terminal_15_3 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/15/4' element={<Terminal_15_4 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/15/5' element={<Terminal_15_5 />} />
+
         <Route path='/Firmware/Hikvision/Access Control/Terminal/16' element={<Terminal_16 />} />
         <Route path='/Firmware/Hikvision/Access Control/Terminal/17' element={<Terminal_17 />} />
         <Route path='/Firmware/Hikvision/Access Control/Terminal/18' element={<Terminal_18 />} />
