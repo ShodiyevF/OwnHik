@@ -853,6 +853,22 @@ import Network_Switch_13 from './pages/Network_Switch_13';
 import Network_Switch_14 from './pages/Network_Switch_14';
 import Network_Switch_15 from './pages/Network_Switch_15';
 import Network_Switch_16 from './pages/Network_Switch_16';
+import Thermal2_Firm from './pages/Thermal2_Firm';
+import Thermal2_How from './pages/Thermal2_How';
+import Thermal2_Soft from './pages/Thermal2_Soft';
+import Thermal2_Firm_1 from './pages/Thermal2_Firm_1';
+import Thermal2_Firm_2 from './pages/Thermal2_Firm_2';
+import Thermal2_Firm_1_1 from './pages/Thermal2_Firm_1_1';
+import Thermal2_Firm_1_2 from './pages/Thermal2_Firm_1_2';
+import Thermal2_Firm_1_3 from './pages/Thermal2_Firm_1_3';
+import Thermal2_Firm_2_1 from './pages/Thermal2_Firm_2_1';
+import Thermal2_Firm_2_2 from './pages/Thermal2_Firm_2_2';
+import Thermal2_Firm_2_3 from './pages/Thermal2_Firm_2_3';
+import Thermal2_Firm_2_4 from './pages/Thermal2_Firm_2_4';
+import Thermal2_Firm_2_5 from './pages/Thermal2_Firm_2_5';
+import Thermal2_Firm_2_6 from './pages/Thermal2_Firm_2_6';
+import Thermal2_Firm_2_7 from './pages/Thermal2_Firm_2_7';
+import Thermal2_Firm_2_8 from './pages/Thermal2_Firm_2_8';
 
 
 
@@ -1674,6 +1690,33 @@ function App() {
 
 
         <Route path='/Firmware/Hikvision/Thermal/' element={<Thermal2 />} />
+      {/* /Firmware/Hikvision/Thermal/ pages */}
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/' element={<Thermal2_Firm />} />
+        {/* pages */}
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/1' element={<Thermal2_Firm_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/1/1' element={<Thermal2_Firm_1_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/1/2' element={<Thermal2_Firm_1_2 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/1/3' element={<Thermal2_Firm_1_3 />} />
+
+
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2' element={<Thermal2_Firm_2 />} />
+        {/* /Firmware/Hikvision/Thermal/Firmware/2 pages */}
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/1' element={<Thermal2_Firm_2_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/2' element={<Thermal2_Firm_2_2 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/3' element={<Thermal2_Firm_2_3 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/4' element={<Thermal2_Firm_2_4 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/5' element={<Thermal2_Firm_2_5 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/6' element={<Thermal2_Firm_2_6 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/7' element={<Thermal2_Firm_2_7 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/8' element={<Thermal2_Firm_2_8 />} />
+
+
+        <Route path='/Firmware/Hikvision/Thermal/How to/' element={<Thermal2_How />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/' element={<Thermal2_Soft />} />
+
+
+
+
         <Route path='/Firmware/Hikvision/Storage/' element={<Storage2 />} />
         <Route path='/Firmware/Hikvision/Storage/Hybrid SAN/' element={<StorageHybridSAN />} />
         <Route path='/Firmware/Hikvision/Storage/Hybrid SAN/1. Firmware/' element={<HybridSAN1Firmware />} />
