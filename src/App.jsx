@@ -869,6 +869,20 @@ import Thermal2_Firm_2_5 from './pages/Thermal2_Firm_2_5';
 import Thermal2_Firm_2_6 from './pages/Thermal2_Firm_2_6';
 import Thermal2_Firm_2_7 from './pages/Thermal2_Firm_2_7';
 import Thermal2_Firm_2_8 from './pages/Thermal2_Firm_2_8';
+import Thermal2_How_1 from './pages/Thermal2_How_1';
+import Thermal2_How_2 from './pages/Thermal2_How_2';
+import Thermal2_How_3 from './pages/Thermal2_How_3';
+import Thermal2_How_4 from './pages/Thermal2_How_4';
+import Thermal2_How_5 from './pages/Thermal2_How_5';
+import Thermal2_How_6 from './pages/Thermal2_How_6';
+import Thermal2_How_7 from './pages/Thermal2_How_7';
+import Thermal2_How_8 from './pages/Thermal2_How_8';
+import Thermal2_How_9 from './pages/Thermal2_How_9';
+import Thermal2_Soft_1 from './pages/Thermal2_Soft_1';
+import Thermal2_Soft_1_1 from './pages/Thermal2_Soft_1_1';
+import Thermal2_Soft_1_2 from './pages/Thermal2_Soft_1_2';
+import Thermal2_Soft_1_3 from './pages/Thermal2_Soft_1_3';
+import Thermal2_Soft_1_4 from './pages/Thermal2_Soft_1_4';
 
 
 
@@ -1712,7 +1726,26 @@ function App() {
 
 
         <Route path='/Firmware/Hikvision/Thermal/How to/' element={<Thermal2_How />} />
-        <Route path='/Firmware/Hikvision/Thermal/How to/' element={<Thermal2_Soft />} />
+        {/* /Firmware/Hikvision/Thermal/How to/ pages */}
+        <Route path='/Firmware/Hikvision/Thermal/How to/1' element={<Thermal2_How_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/2' element={<Thermal2_How_2 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/3' element={<Thermal2_How_3 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/4' element={<Thermal2_How_4 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/5' element={<Thermal2_How_5 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/6' element={<Thermal2_How_6 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/7' element={<Thermal2_How_7 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/8' element={<Thermal2_How_8 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/9' element={<Thermal2_How_9 />} />
+
+
+        <Route path='/Firmware/Hikvision/Thermal/Soft/' element={<Thermal2_Soft />} />
+        {/* /Firmware/Hikvision/Thermal/Soft/ */}
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1' element={<Thermal2_Soft_1 />} />
+        {/* /Firmware/Hikvision/Thermal/Soft/1 pages */}
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1/1' element={<Thermal2_Soft_1_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1/2' element={<Thermal2_Soft_1_2 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1/3' element={<Thermal2_Soft_1_3 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1/4' element={<Thermal2_Soft_1_4 />} />
 
 
 

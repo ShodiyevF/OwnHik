@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-export default function Thermal2_Soft() {
+export default function Thermal2_Soft_1_4() {
   return (
     <div>
     <div className='home_div'>
@@ -9,7 +9,7 @@ export default function Thermal2_Soft() {
             <div className='button_div'>
                 <Link to={"/Firmware/Hikvision/Thermal/Soft/1"} className='button_div2'>
                      
-                    <h5>ThermalCameraConfigTool V 2.3.12/</h5>
+                    <h5>20180625/ </h5>
                 </Link>
             </div>
              
