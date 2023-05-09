@@ -853,6 +853,59 @@ import Network_Switch_13 from './pages/Network_Switch_13';
 import Network_Switch_14 from './pages/Network_Switch_14';
 import Network_Switch_15 from './pages/Network_Switch_15';
 import Network_Switch_16 from './pages/Network_Switch_16';
+import Video_Intercom from './pages/Video_Intercom';
+import HW_DVR from './pages/HW_DVR';
+import HW_DVR_1mpx from './pages/HW_DVR_1mpx';
+import HW_DVR_1mpx_1 from './pages/HW_DVR_1mpx_1';
+import HW_DVR_1mpx_2 from './pages/HW_DVR_1mpx_2';
+import HW_DVR_2mpx from './pages/HW_DVR_2mpx';
+import HW_DVR_2mpx_1 from './pages/HW_DVR_2mpx_1';
+import HW_DVR_2mpx_2 from './pages/HW_DVR_2mpx_2';
+import HW_DVR_2mpx_2_1 from './pages/HW_DVR_2mpx_2_1';
+import HW_DVR_2mpx_2_2 from './pages/HW_DVR_2mpx_2_2';
+import HW_DVR_2mpx_2_3 from './pages/HW_DVR_2mpx_2_3';
+import HW_DVR_2mpx_3 from './pages/HW_DVR_2mpx_3';
+import HW_DVR_2mpx_3_1 from './pages/HW_DVR_2mpx_3_1';
+import HW_DVR_2mpx_3_2 from './pages/HW_DVR_2mpx_3_2';
+import HW_DVR_2mpx_4 from './pages/HW_DVR_2mpx_4';
+import HW_DVR_2mpx_5 from './pages/HW_DVR_2mpx_5';
+import HW_DVR_2mpx_6 from './pages/HW_DVR_2mpx_6';
+import HW_DVR_2mpx_7 from './pages/HW_DVR_2mpx_7';
+import HW_DVR_2mpx_7_1 from './pages/HW_DVR_2mpx_7_1';
+import HW_DVR_2mpx_7_2 from './pages/HW_DVR_2mpx_7_2';
+import HW_DVR_2mpx_8 from './pages/HW_DVR_2mpx_8';
+import HW_DVR_2mpx_8_1 from './pages/HW_DVR_2mpx_8_1';
+import HW_DVR_2mpx_8_2 from './pages/HW_DVR_2mpx_8_2';
+import HW_DVR_2mpx_9 from './pages/HW_DVR_2mpx_9';
+import HW_DVR_2mpx_10 from './pages/HW_DVR_2mpx_10';
+import HW_DVR_2mpx_11 from './pages/HW_DVR_2mpx_11';
+import HW_DVR_5mpx from './pages/HW_DVR_5mpx';
+import HW_DVR_5mpx_1 from './pages/HW_DVR_5mpx_1';
+import HW_DVR_5mpx_2 from './pages/HW_DVR_5mpx_2';
+import HW_DVR_5mpx_2_1 from './pages/HW_DVR_5mpx_2_1';
+import HW_DVR_5mpx_2_2 from './pages/HW_DVR_5mpx_2_2';
+import HW_DVR_5mpx_3 from './pages/HW_DVR_5mpx_3';
+import HW_DVR_5mpx_3_1 from './pages/HW_DVR_5mpx_3_1';
+import HW_DVR_5mpx_3_2 from './pages/HW_DVR_5mpx_3_2';
+import HW_DVR_5mpx_3_3 from './pages/HW_DVR_5mpx_3_3';
+import HW_DVR_5mpx_4 from './pages/HW_DVR_5mpx_4';
+import HW_DVR_5mpx_5 from './pages/HW_DVR_5mpx_5';
+import HW_DVR_5mpx_6 from './pages/HW_DVR_5mpx_6';
+import HW_DVR_5mpx_7 from './pages/HW_DVR_5mpx_7';
+import HW_DVR_5mpx_7_1 from './pages/HW_DVR_5mpx_7_1';
+import HW_DVR_5mpx_7_2 from './pages/HW_DVR_5mpx_7_2';
+import HW_DVR_5mpx_8 from './pages/HW_DVR_5mpx_8';
+import HW_DVR_5mpx_8_1 from './pages/HW_DVR_5mpx_8_1';
+import HW_DVR_5mpx_8_2 from './pages/HW_DVR_5mpx_8_2';
+import HW_DVR_5mpx_8_3 from './pages/HW_DVR_5mpx_8_3';
+import HW_DVR_5mpx_9 from './pages/HW_DVR_5mpx_9';
+import HW_DVR_5mpx_10 from './pages/HW_DVR_5mpx_10';
+import HW_DVR_5mpx_10_1 from './pages/HW_DVR_5mpx_10_1';
+import HW_DVR_5mpx_11 from './pages/HW_DVR_5mpx_11';
+import HW_DVR_8mpx from './pages/HW_DVR_8mpx';
+import HW_DVR_8mpx_1 from './pages/HW_DVR_8mpx_1';
+import HW_DVR_8mpx_2 from './pages/HW_DVR_8mpx_2';
+import HW_DVR_8mpx_3 from './pages/HW_DVR_8mpx_3';
 
 
 
@@ -1905,6 +1958,73 @@ function App() {
         {/* ids_2_2 pages */}
         <Route path='/Firmware/Hikvision/IP Camera/Other/pids_2_2_1' element={<Other_2_2_2_1 />} />
         <Route path='/Firmware/Hikvision/IP Camera/Other/pids_2_2_2' element={<Other_2_2_2_2 />} />
+
+
+
+        {/* /Firmware/HiWatch Value/ DVR (TVI regs)/ */}
+        <Route path='/Firmware/HiWatch Value/ DVR (TVI regs)/' element={<HW_DVR />} />
+
+        {/* /Firmware/Hikvision/DVR (TVI regs)/1mpx - G series/ */}
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/1mpx - G series/' element={<HW_DVR_1mpx />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/1mpx - G series/1' element={<HW_DVR_1mpx_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/1mpx - G series/2' element={<HW_DVR_1mpx_2 />} />
+
+        {/* /Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/ */}
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/' element={<HW_DVR_2mpx />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/1' element={<HW_DVR_2mpx_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/2' element={<HW_DVR_2mpx_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/2/1' element={<HW_DVR_2mpx_2_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/2/2' element={<HW_DVR_2mpx_2_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/2/3' element={<HW_DVR_2mpx_2_3 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/3' element={<HW_DVR_2mpx_3 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/3/1' element={<HW_DVR_2mpx_3_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/3/2' element={<HW_DVR_2mpx_3_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/4' element={<HW_DVR_2mpx_4 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/5' element={<HW_DVR_2mpx_5 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/6' element={<HW_DVR_2mpx_6 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/7' element={<HW_DVR_2mpx_7 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/7/1' element={<HW_DVR_2mpx_7_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/7/2' element={<HW_DVR_2mpx_7_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/8' element={<HW_DVR_2mpx_8 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/8/1' element={<HW_DVR_2mpx_8_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/8/2' element={<HW_DVR_2mpx_8_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/9' element={<HW_DVR_2mpx_9 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/10' element={<HW_DVR_2mpx_10 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/11' element={<HW_DVR_2mpx_11 />} />
+
+        {/* /Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/ */}
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/' element={<HW_DVR_5mpx />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/1' element={<HW_DVR_5mpx_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/2' element={<HW_DVR_5mpx_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/2/1' element={<HW_DVR_5mpx_2_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/2/2' element={<HW_DVR_5mpx_2_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/3' element={<HW_DVR_5mpx_3 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/3/1' element={<HW_DVR_5mpx_3_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/3/2' element={<HW_DVR_5mpx_3_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/3/3' element={<HW_DVR_5mpx_3_3 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/4' element={<HW_DVR_5mpx_4 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/5' element={<HW_DVR_5mpx_5 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/6' element={<HW_DVR_5mpx_6 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/7' element={<HW_DVR_5mpx_7 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/7/1' element={<HW_DVR_5mpx_7_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/7/2' element={<HW_DVR_5mpx_7_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/8' element={<HW_DVR_5mpx_8 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/8/1' element={<HW_DVR_5mpx_8_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/8/2' element={<HW_DVR_5mpx_8_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/8/3' element={<HW_DVR_5mpx_8_3 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/9' element={<HW_DVR_5mpx_9 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/10' element={<HW_DVR_5mpx_10 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/10/1' element={<HW_DVR_5mpx_10_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/11' element={<HW_DVR_5mpx_11 />} />
+
+        {/* /Firmware/Hikvision/DVR (TVI regs)/8mpx - T series/ */}
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/8mpx - T series/' element={<HW_DVR_8mpx />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/8mpx - T series/1' element={<HW_DVR_8mpx_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/8mpx - T series/2' element={<HW_DVR_8mpx_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/8mpx - T series/3' element={<HW_DVR_8mpx_3 />} />
+
+        {/* /Firmware/HiWatch Value/Video Intercom/ */}
+        <Route path='/Firmware/HiWatch Value/Video Intercom/' element={<Video_Intercom />} />
 
 
 
