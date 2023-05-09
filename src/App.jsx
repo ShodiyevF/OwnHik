@@ -883,6 +883,39 @@ import Thermal2_Soft_1_1 from './pages/Thermal2_Soft_1_1';
 import Thermal2_Soft_1_2 from './pages/Thermal2_Soft_1_2';
 import Thermal2_Soft_1_3 from './pages/Thermal2_Soft_1_3';
 import Thermal2_Soft_1_4 from './pages/Thermal2_Soft_1_4';
+import Keyboards_1 from './pages/Keyboards_1';
+import Keyboards_1_1 from './pages/Keyboards_1_1';
+import Keyboards_1_2 from './pages/Keyboards_1_2';
+import Keyboards_1_3 from './pages/Keyboards_1_3';
+import Keyboards_1_4 from './pages/Keyboards_1_4';
+import Keyboards_1_3_1 from './pages/Keyboards_1_3_1';
+import Keyboards_1_3_2 from './pages/Keyboards_1_3_2';
+import Keyboards_1_3_3 from './pages/Keyboards_1_3_3';
+import Keyboards_1_3_4 from './pages/Keyboards_1_3_4';
+import Keyboards_2 from './pages/Keyboards_2';
+import Keyboards_2_1 from './pages/Keyboards_2_1';
+import Keyboards_2_2 from './pages/Keyboards_2_2';
+import Keyboards_2_3 from './pages/Keyboards_2_3';
+import Keyboards_2_4 from './pages/Keyboards_2_4';
+import Keyboards_2_5 from './pages/Keyboards_2_5';
+import Keyboards_2_6 from './pages/Keyboards_2_6';
+import Keyboards_2_7 from './pages/Keyboards_2_7';
+import Keyboards_2_8 from './pages/Keyboards_2_8';
+import Keyboards_2_9 from './pages/Keyboards_2_9';
+import Keyboards_2_10 from './pages/Keyboards_2_10';
+import Keyboards_4 from './pages/Keyboards_4';
+import Keyboards_5 from './pages/Keyboards_5';
+import Keyboards_5_1 from './pages/Keyboards_5_1';
+import Keyboards_5_2 from './pages/Keyboards_5_2';
+import Keyboards_5_3 from './pages/Keyboards_5_3';
+import Keyboards_5_1_1 from './pages/Keyboards_5_1_1';
+import Keyboards_5_1_2 from './pages/Keyboards_5_1_2';
+import Keyboards_5_1_3 from './pages/Keyboards_5_1_3';
+import Keyboards_5_1_4 from './pages/Keyboards_5_1_4';
+import Keyboards_5_1_5 from './pages/Keyboards_5_1_5';
+import Keyboards_5_1_6 from './pages/Keyboards_5_1_6';
+import Keyboards_5_1_7 from './pages/Keyboards_5_1_7';
+import Keyboards_3 from './pages/Keyboards_3';
 
 
 
@@ -1675,6 +1708,61 @@ function App() {
 
 
         <Route path='/Firmware/Hikvision/Keyboards/' element={<Keyboards />} />
+
+        {/* /Firmware/Hikvision/Keyboards/ */}
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/' element={<Keyboards_1 />} />
+        {/* /Firmware/Hikvision/Keyboards/DS-1005KI/ pages */}
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/1' element={<Keyboards_1_1 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/2' element={<Keyboards_1_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3' element={<Keyboards_1_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3/1' element={<Keyboards_1_3_1 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3/2' element={<Keyboards_1_3_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3/3' element={<Keyboards_1_3_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3/4' element={<Keyboards_1_3_4 />} />
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/4' element={<Keyboards_1_4 />} />
+
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/' element={<Keyboards_2 />} />
+        {/* /Firmware/Hikvision/Keyboards/DS-1100KI/ pages */}
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/1' element={<Keyboards_2_1 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/2' element={<Keyboards_2_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/3' element={<Keyboards_2_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/4' element={<Keyboards_2_4 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/5' element={<Keyboards_2_5 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/6' element={<Keyboards_2_6 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/7' element={<Keyboards_2_7 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/8' element={<Keyboards_2_8 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/9' element={<Keyboards_2_9 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/10' element={<Keyboards_2_10 />} />
+
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI(B)/' element={<Keyboards_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1200KI&1006KI/' element={<Keyboards_4 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/' element={<Keyboards_5 />} />
+          {/* /Firmware/Hikvision/Keyboards/DS-1600KI/ pages */}
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1' element={<Keyboards_5_1 />} />
+        {/* /Firmware/Hikvision/Keyboards/DS-1600KI/1 pages */}
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/1' element={<Keyboards_5_1_1 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/2' element={<Keyboards_5_1_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/3' element={<Keyboards_5_1_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/4' element={<Keyboards_5_1_4 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/5' element={<Keyboards_5_1_5 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/6' element={<Keyboards_5_1_6 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/7' element={<Keyboards_5_1_7 />} />
+ 
+
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/2' element={<Keyboards_5_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/3' element={<Keyboards_5_3 />} />
+
+
+
+
+
+
+
 
 
         <Route path='/Firmware/Hikvision/Network/' element={<Network />} />
