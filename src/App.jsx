@@ -806,6 +806,7 @@ import HiWatchValue_IP_26 from "./pages/HiWatchValue_IP_26";
 import HiWatchValue_IP_27 from "./pages/HiWatchValue_IP_27";
 import HiWatchValue_IP_28 from "./pages/HiWatchValue_IP_28";
 import HiWatchValue_IP_29 from "./pages/HiWatchValue_IP_29";
+import HiWatchValue_IP_29_1 from "./pages/HiWatchValue_IP_29_1";
 import HiWatchValue_IP_3 from "./pages/HiWatchValue_IP_3";
 import HiWatchValue_IP_4 from "./pages/HiWatchValue_IP_4";
 import HiWatchValue_IP_5 from "./pages/HiWatchValue_IP_5";
@@ -813,6 +814,19 @@ import HiWatchValue_IP_6 from "./pages/HiWatchValue_IP_6";
 import HiWatchValue_IP_7 from "./pages/HiWatchValue_IP_7";
 import HiWatchValue_IP_8 from "./pages/HiWatchValue_IP_8";
 import HiWatchValue_IP_9 from "./pages/HiWatchValue_IP_9";
+import HiWatchValue_NVR from "./pages/HiWatchValue_NVR";
+import HiWatchValue_NVR_1 from "./pages/HiWatchValue_NVR_1";
+import HiWatchValue_NVR_2 from "./pages/HiWatchValue_NVR_2";
+import HiWatchValue_NVR_3 from "./pages/HiWatchValue_NVR_3";
+import HiWatchValue_NVR_4 from "./pages/HiWatchValue_NVR_4";
+import HiWatchValue_NVR_5 from "./pages/HiWatchValue_NVR_5";
+import HiWatchValue_NVR_6 from "./pages/HiWatchValue_NVR_6";
+import HiWatchValue_NVR_7 from "./pages/HiWatchValue_NVR_7";
+import HiWatchValue_NVR_8 from "./pages/HiWatchValue_NVR_8";
+import HiWatchValue_NVR_8_1 from "./pages/HiWatchValue_NVR_8_1";
+import HiWatchValue_NVR_8_2 from "./pages/HiWatchValue_NVR_8_2";
+import HiWatchValue_NVR_8_3 from "./pages/HiWatchValue_NVR_8_3";
+import HiWatchValue_NVR_8_4 from "./pages/HiWatchValue_NVR_8_4";
 import Network_Switch from './pages/Network_Switch';
 import Network_Switch_1 from './pages/Network_Switch_1';
 import Network_Switch_10 from './pages/Network_Switch_10';
@@ -887,7 +901,8 @@ import VideInterCom_4_2_2 from './pages/VideInterCom_4_2_2';
 import VideInterCom_4_2_2_1 from './pages/VideInterCom_4_2_2_1.JSX';
 import VideInterCom_4_2_2_2 from './pages/VideInterCom_4_2_2_2';
 import VideInterCom_4_2_2_3 from './pages/VideInterCom_4_2_2_3';
-import HiWatchValue_IP_29_1 from "./pages/HiWatchValue_IP_29_1";
+import HiWatchValue_PTZ from "./pages/HiWatchValue_PTZ";
+import HiWatchValue_PTZ_1 from "./pages/HiWatchValue_PTZ_1";
 
 
 
@@ -947,7 +962,30 @@ function App() {
         {/* pages */}
         <Route path='/Firmware/HiWatch Value/IP Cameras/29/1' element={<HiWatchValue_IP_29_1 />} />
 
+        {/* /Firmware/HiWatch Value/02. NVR (IP regs)/ */}
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/' element={<HiWatchValue_NVR />} />
+        {/* /Firmware/HiWatch Value/02. NVR (IP regs)/ pages */}
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/1' element={<HiWatchValue_NVR_1 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/2' element={<HiWatchValue_NVR_2 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/3' element={<HiWatchValue_NVR_3 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/4' element={<HiWatchValue_NVR_4 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/5' element={<HiWatchValue_NVR_5 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/6' element={<HiWatchValue_NVR_6 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/7' element={<HiWatchValue_NVR_7 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/8' element={<HiWatchValue_NVR_8 />} />
+        
+        {/* /Firmware/HiWatch Value/NVR (IP regs)/8 pages */}
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/8/1' element={<HiWatchValue_NVR_8_1 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/8/2' element={<HiWatchValue_NVR_8_2 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/8/3' element={<HiWatchValue_NVR_8_3 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/8/4' element={<HiWatchValue_NVR_8_4 />} />
 
+        <Route path='/Firmware/HiWatch Value/PTZ/' element={<HiWatchValue_PTZ />} />
+        {/* /Firmware/HiWatch Value/PTZ/ pages */}
+        <Route path='/Firmware/HiWatch Value/PTZ/1' element={<HiWatchValue_PTZ_1 />} />
+
+
+        
 
         <Route path='/Firmware/HiWatch Pro/' element={<HiWatchPro />} />
         <Route path='/Firmware/Hiwatch Ecoline/' element={<HiwatchEcoline />} />
