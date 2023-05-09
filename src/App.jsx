@@ -1035,7 +1035,7 @@ import HW_DVR_8mpx from './pages/HW_DVR_8mpx';
 import HW_DVR_8mpx_1 from './pages/HW_DVR_8mpx_1';
 import HW_DVR_8mpx_2 from './pages/HW_DVR_8mpx_2';
 import HW_DVR_8mpx_3 from './pages/HW_DVR_8mpx_3';
-import HiWatchValue_IP_29_1 from "./pages/HiWatchValue_IP_29_1";
+//  import HiWatchValue_IP_29_1 from "./pages/HiWatchValue_IP_29_1";
 import HiWatchValue_PTZ from "./pages/HiWatchValue_PTZ";
 import HiWatchValue_PTZ_1 from "./pages/HiWatchValue_PTZ_1";
 import HiWatchPro_IP from "./pages/HiWatchPro_IP";
