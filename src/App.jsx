@@ -903,6 +903,17 @@ import VideInterCom_4_2_2_2 from './pages/VideInterCom_4_2_2_2';
 import VideInterCom_4_2_2_3 from './pages/VideInterCom_4_2_2_3';
 import HiWatchValue_PTZ from "./pages/HiWatchValue_PTZ";
 import HiWatchValue_PTZ_1 from "./pages/HiWatchValue_PTZ_1";
+import HiWatchPro_IP from "./pages/HiWatchPro_IP";
+import HiWatchPro_IP_1 from "./pages/HiWatchPro_IP_1";
+import HiWatchPro_IP_2 from "./pages/HiWatchPro_IP_2";
+import HiWatchPro_NVR from "./pages/HiWatchPro_NVR";
+import HiWatchPro_PTZ from "./pages/HiWatchPro_PTZ";
+import HiWatchPro_DVR from "./pages/HiWatchPro_DVR";
+import HiWatchPro_VIDEO from "./pages/HiWatchPro_VIDEO";
+import HiWatchPro_ACCESS from "./pages/HiWatchPro_ACCESS";
+import HiWatchPro_ACCESS_1 from "./pages/HiWatchPro_ACCESS_1";
+import HiWatchPro_ACCESS_2 from "./pages/HiWatchPro_ACCESS_2";
+import HiWatchPro_Thermal from "./pages/HiWatchPro_Thermal";
 
 
 
@@ -988,6 +999,21 @@ function App() {
         
 
         <Route path='/Firmware/HiWatch Pro/' element={<HiWatchPro />} />
+        <Route path='/Firmware/HiWatch Pro/IP Cameras/' element={<HiWatchPro_IP />} />
+        {/* pages */}
+        <Route path='/Firmware/HiWatch Pro/IP Cameras/1' element={<HiWatchPro_IP_1 />} />
+        <Route path='/Firmware/HiWatch Pro/IP Cameras/2' element={<HiWatchPro_IP_2 />} />
+
+        <Route path='/Firmware/HiWatch Pro/NVR (IP regs)/' element={<HiWatchPro_NVR />} />
+        <Route path='/Firmware/HiWatch Pro/PTZ/' element={<HiWatchPro_PTZ />} />
+        <Route path='/Firmware/HiWatch Pro/DVR (TVI regs)/' element={<HiWatchPro_DVR />} />
+        <Route path='/Firmware/HiWatch Pro/Video Intercom/' element={<HiWatchPro_VIDEO />} />
+        <Route path='/Firmware/HiWatch Pro/Access control/' element={<HiWatchPro_ACCESS />} />
+        {/* pages */}
+        <Route path='/Firmware/HiWatch Pro/Access control/1' element={<HiWatchPro_ACCESS_1 />} />
+        <Route path='/Firmware/HiWatch Pro/Access control/2' element={<HiWatchPro_ACCESS_2 />} />
+        <Route path='/Firmware/HiWatch Pro/Thermal/' element={<HiWatchPro_Thermal />} />
+
         <Route path='/Firmware/Hiwatch Ecoline/' element={<HiwatchEcoline />} />
         <Route path='/Firmware/Hiwatch Ecoline/IPC/' element={<HiwatchEcolineIPC />} />
         <Route path='/Firmware/Hiwatch Ecoline/IPC/IPC-B020 IPC-T020/' element={<IPCB020IPCT020 />} />
