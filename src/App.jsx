@@ -901,6 +901,141 @@ import VideInterCom_4_2_2 from './pages/VideInterCom_4_2_2';
 import VideInterCom_4_2_2_1 from './pages/VideInterCom_4_2_2_1.JSX';
 import VideInterCom_4_2_2_2 from './pages/VideInterCom_4_2_2_2';
 import VideInterCom_4_2_2_3 from './pages/VideInterCom_4_2_2_3';
+// import Network_Switch from './pages/Network_Switch';
+// import Network_Wire from './pages/Network_Wire';
+// import Network_Switch_1 from './pages/Network_Switch_1';
+// import Network_Switch_2 from './pages/Network_Switch_2';
+// import Network_Switch_3 from './pages/Network_Switch_3';
+// import Network_Switch_4 from './pages/Network_Switch_4';
+// import Network_Switch_5 from './pages/Network_Switch_5';
+// import Network_Switch_6 from './pages/Network_Switch_6';
+// import Network_Switch_7 from './pages/Network_Switch_7';
+// import Network_Switch_8 from './pages/Network_Switch_8';
+// import Network_Switch_9 from './pages/Network_Switch_9';
+// import Network_Switch_10 from './pages/Network_Switch_10';
+// import Network_Switch_11 from './pages/Network_Switch_11';
+// import Network_Switch_12 from './pages/Network_Switch_12';
+// import Network_Switch_13 from './pages/Network_Switch_13';
+// import Network_Switch_14 from './pages/Network_Switch_14';
+// import Network_Switch_15 from './pages/Network_Switch_15';
+// import Network_Switch_16 from './pages/Network_Switch_16';
+import Thermal2_Firm from './pages/Thermal2_Firm';
+import Thermal2_How from './pages/Thermal2_How';
+import Thermal2_Soft from './pages/Thermal2_Soft';
+import Thermal2_Firm_1 from './pages/Thermal2_Firm_1';
+import Thermal2_Firm_2 from './pages/Thermal2_Firm_2';
+import Thermal2_Firm_1_1 from './pages/Thermal2_Firm_1_1';
+import Thermal2_Firm_1_2 from './pages/Thermal2_Firm_1_2';
+import Thermal2_Firm_1_3 from './pages/Thermal2_Firm_1_3';
+import Thermal2_Firm_2_1 from './pages/Thermal2_Firm_2_1';
+import Thermal2_Firm_2_2 from './pages/Thermal2_Firm_2_2';
+import Thermal2_Firm_2_3 from './pages/Thermal2_Firm_2_3';
+import Thermal2_Firm_2_4 from './pages/Thermal2_Firm_2_4';
+import Thermal2_Firm_2_5 from './pages/Thermal2_Firm_2_5';
+import Thermal2_Firm_2_6 from './pages/Thermal2_Firm_2_6';
+import Thermal2_Firm_2_7 from './pages/Thermal2_Firm_2_7';
+import Thermal2_Firm_2_8 from './pages/Thermal2_Firm_2_8';
+import Thermal2_How_1 from './pages/Thermal2_How_1';
+import Thermal2_How_2 from './pages/Thermal2_How_2';
+import Thermal2_How_3 from './pages/Thermal2_How_3';
+import Thermal2_How_4 from './pages/Thermal2_How_4';
+import Thermal2_How_5 from './pages/Thermal2_How_5';
+import Thermal2_How_6 from './pages/Thermal2_How_6';
+import Thermal2_How_7 from './pages/Thermal2_How_7';
+import Thermal2_How_8 from './pages/Thermal2_How_8';
+import Thermal2_How_9 from './pages/Thermal2_How_9';
+import Thermal2_Soft_1 from './pages/Thermal2_Soft_1';
+import Thermal2_Soft_1_1 from './pages/Thermal2_Soft_1_1';
+import Thermal2_Soft_1_2 from './pages/Thermal2_Soft_1_2';
+import Thermal2_Soft_1_3 from './pages/Thermal2_Soft_1_3';
+import Thermal2_Soft_1_4 from './pages/Thermal2_Soft_1_4';
+import Keyboards_1 from './pages/Keyboards_1';
+import Keyboards_1_1 from './pages/Keyboards_1_1';
+import Keyboards_1_2 from './pages/Keyboards_1_2';
+import Keyboards_1_3 from './pages/Keyboards_1_3';
+import Keyboards_1_4 from './pages/Keyboards_1_4';
+import Keyboards_1_3_1 from './pages/Keyboards_1_3_1';
+import Keyboards_1_3_2 from './pages/Keyboards_1_3_2';
+import Keyboards_1_3_3 from './pages/Keyboards_1_3_3';
+import Keyboards_1_3_4 from './pages/Keyboards_1_3_4';
+import Keyboards_2 from './pages/Keyboards_2';
+import Keyboards_2_1 from './pages/Keyboards_2_1';
+import Keyboards_2_2 from './pages/Keyboards_2_2';
+import Keyboards_2_3 from './pages/Keyboards_2_3';
+import Keyboards_2_4 from './pages/Keyboards_2_4';
+import Keyboards_2_5 from './pages/Keyboards_2_5';
+import Keyboards_2_6 from './pages/Keyboards_2_6';
+import Keyboards_2_7 from './pages/Keyboards_2_7';
+import Keyboards_2_8 from './pages/Keyboards_2_8';
+import Keyboards_2_9 from './pages/Keyboards_2_9';
+import Keyboards_2_10 from './pages/Keyboards_2_10';
+import Keyboards_4 from './pages/Keyboards_4';
+import Keyboards_5 from './pages/Keyboards_5';
+import Keyboards_5_1 from './pages/Keyboards_5_1';
+import Keyboards_5_2 from './pages/Keyboards_5_2';
+import Keyboards_5_3 from './pages/Keyboards_5_3';
+import Keyboards_5_1_1 from './pages/Keyboards_5_1_1';
+import Keyboards_5_1_2 from './pages/Keyboards_5_1_2';
+import Keyboards_5_1_3 from './pages/Keyboards_5_1_3';
+import Keyboards_5_1_4 from './pages/Keyboards_5_1_4';
+import Keyboards_5_1_5 from './pages/Keyboards_5_1_5';
+import Keyboards_5_1_6 from './pages/Keyboards_5_1_6';
+import Keyboards_5_1_7 from './pages/Keyboards_5_1_7';
+import Keyboards_3 from './pages/Keyboards_3';
+import Video_Intercom from './pages/Video_Intercom';
+import HW_DVR from './pages/HW_DVR';
+import HW_DVR_1mpx from './pages/HW_DVR_1mpx';
+import HW_DVR_1mpx_1 from './pages/HW_DVR_1mpx_1';
+import HW_DVR_1mpx_2 from './pages/HW_DVR_1mpx_2';
+import HW_DVR_2mpx from './pages/HW_DVR_2mpx';
+import HW_DVR_2mpx_1 from './pages/HW_DVR_2mpx_1';
+import HW_DVR_2mpx_2 from './pages/HW_DVR_2mpx_2';
+import HW_DVR_2mpx_2_1 from './pages/HW_DVR_2mpx_2_1';
+import HW_DVR_2mpx_2_2 from './pages/HW_DVR_2mpx_2_2';
+import HW_DVR_2mpx_2_3 from './pages/HW_DVR_2mpx_2_3';
+import HW_DVR_2mpx_3 from './pages/HW_DVR_2mpx_3';
+import HW_DVR_2mpx_3_1 from './pages/HW_DVR_2mpx_3_1';
+import HW_DVR_2mpx_3_2 from './pages/HW_DVR_2mpx_3_2';
+import HW_DVR_2mpx_4 from './pages/HW_DVR_2mpx_4';
+import HW_DVR_2mpx_5 from './pages/HW_DVR_2mpx_5';
+import HW_DVR_2mpx_6 from './pages/HW_DVR_2mpx_6';
+import HW_DVR_2mpx_7 from './pages/HW_DVR_2mpx_7';
+import HW_DVR_2mpx_7_1 from './pages/HW_DVR_2mpx_7_1';
+import HW_DVR_2mpx_7_2 from './pages/HW_DVR_2mpx_7_2';
+import HW_DVR_2mpx_8 from './pages/HW_DVR_2mpx_8';
+import HW_DVR_2mpx_8_1 from './pages/HW_DVR_2mpx_8_1';
+import HW_DVR_2mpx_8_2 from './pages/HW_DVR_2mpx_8_2';
+import HW_DVR_2mpx_9 from './pages/HW_DVR_2mpx_9';
+import HW_DVR_2mpx_10 from './pages/HW_DVR_2mpx_10';
+import HW_DVR_2mpx_11 from './pages/HW_DVR_2mpx_11';
+import HW_DVR_5mpx from './pages/HW_DVR_5mpx';
+import HW_DVR_5mpx_1 from './pages/HW_DVR_5mpx_1';
+import HW_DVR_5mpx_2 from './pages/HW_DVR_5mpx_2';
+import HW_DVR_5mpx_2_1 from './pages/HW_DVR_5mpx_2_1';
+import HW_DVR_5mpx_2_2 from './pages/HW_DVR_5mpx_2_2';
+import HW_DVR_5mpx_3 from './pages/HW_DVR_5mpx_3';
+import HW_DVR_5mpx_3_1 from './pages/HW_DVR_5mpx_3_1';
+import HW_DVR_5mpx_3_2 from './pages/HW_DVR_5mpx_3_2';
+import HW_DVR_5mpx_3_3 from './pages/HW_DVR_5mpx_3_3';
+import HW_DVR_5mpx_4 from './pages/HW_DVR_5mpx_4';
+import HW_DVR_5mpx_5 from './pages/HW_DVR_5mpx_5';
+import HW_DVR_5mpx_6 from './pages/HW_DVR_5mpx_6';
+import HW_DVR_5mpx_7 from './pages/HW_DVR_5mpx_7';
+import HW_DVR_5mpx_7_1 from './pages/HW_DVR_5mpx_7_1';
+import HW_DVR_5mpx_7_2 from './pages/HW_DVR_5mpx_7_2';
+import HW_DVR_5mpx_8 from './pages/HW_DVR_5mpx_8';
+import HW_DVR_5mpx_8_1 from './pages/HW_DVR_5mpx_8_1';
+import HW_DVR_5mpx_8_2 from './pages/HW_DVR_5mpx_8_2';
+import HW_DVR_5mpx_8_3 from './pages/HW_DVR_5mpx_8_3';
+import HW_DVR_5mpx_9 from './pages/HW_DVR_5mpx_9';
+import HW_DVR_5mpx_10 from './pages/HW_DVR_5mpx_10';
+import HW_DVR_5mpx_10_1 from './pages/HW_DVR_5mpx_10_1';
+import HW_DVR_5mpx_11 from './pages/HW_DVR_5mpx_11';
+import HW_DVR_8mpx from './pages/HW_DVR_8mpx';
+import HW_DVR_8mpx_1 from './pages/HW_DVR_8mpx_1';
+import HW_DVR_8mpx_2 from './pages/HW_DVR_8mpx_2';
+import HW_DVR_8mpx_3 from './pages/HW_DVR_8mpx_3';
+import HiWatchValue_IP_29_1 from "./pages/HiWatchValue_IP_29_1";
 import HiWatchValue_PTZ from "./pages/HiWatchValue_PTZ";
 import HiWatchValue_PTZ_1 from "./pages/HiWatchValue_PTZ_1";
 import HiWatchPro_IP from "./pages/HiWatchPro_IP";
@@ -1790,6 +1925,61 @@ function App() {
 
         <Route path='/Firmware/Hikvision/Keyboards/' element={<Keyboards />} />
 
+        {/* /Firmware/Hikvision/Keyboards/ */}
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/' element={<Keyboards_1 />} />
+        {/* /Firmware/Hikvision/Keyboards/DS-1005KI/ pages */}
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/1' element={<Keyboards_1_1 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/2' element={<Keyboards_1_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3' element={<Keyboards_1_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3/1' element={<Keyboards_1_3_1 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3/2' element={<Keyboards_1_3_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3/3' element={<Keyboards_1_3_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3/4' element={<Keyboards_1_3_4 />} />
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/4' element={<Keyboards_1_4 />} />
+
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/' element={<Keyboards_2 />} />
+        {/* /Firmware/Hikvision/Keyboards/DS-1100KI/ pages */}
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/1' element={<Keyboards_2_1 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/2' element={<Keyboards_2_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/3' element={<Keyboards_2_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/4' element={<Keyboards_2_4 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/5' element={<Keyboards_2_5 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/6' element={<Keyboards_2_6 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/7' element={<Keyboards_2_7 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/8' element={<Keyboards_2_8 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/9' element={<Keyboards_2_9 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/10' element={<Keyboards_2_10 />} />
+
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI(B)/' element={<Keyboards_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1200KI&1006KI/' element={<Keyboards_4 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/' element={<Keyboards_5 />} />
+          {/* /Firmware/Hikvision/Keyboards/DS-1600KI/ pages */}
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1' element={<Keyboards_5_1 />} />
+        {/* /Firmware/Hikvision/Keyboards/DS-1600KI/1 pages */}
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/1' element={<Keyboards_5_1_1 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/2' element={<Keyboards_5_1_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/3' element={<Keyboards_5_1_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/4' element={<Keyboards_5_1_4 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/5' element={<Keyboards_5_1_5 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/6' element={<Keyboards_5_1_6 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/7' element={<Keyboards_5_1_7 />} />
+ 
+
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/2' element={<Keyboards_5_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/3' element={<Keyboards_5_3 />} />
+
+
+
+
+
+
+
+
 
         <Route path='/Firmware/Hikvision/Network/' element={<Network />} />
         {/* /Firmware/Hikvision/Network/Network Switch/ */}
@@ -1818,6 +2008,52 @@ function App() {
 
 
         <Route path='/Firmware/Hikvision/Thermal/' element={<Thermal2 />} />
+      {/* /Firmware/Hikvision/Thermal/ pages */}
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/' element={<Thermal2_Firm />} />
+        {/* pages */}
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/1' element={<Thermal2_Firm_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/1/1' element={<Thermal2_Firm_1_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/1/2' element={<Thermal2_Firm_1_2 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/1/3' element={<Thermal2_Firm_1_3 />} />
+
+
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2' element={<Thermal2_Firm_2 />} />
+        {/* /Firmware/Hikvision/Thermal/Firmware/2 pages */}
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/1' element={<Thermal2_Firm_2_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/2' element={<Thermal2_Firm_2_2 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/3' element={<Thermal2_Firm_2_3 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/4' element={<Thermal2_Firm_2_4 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/5' element={<Thermal2_Firm_2_5 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/6' element={<Thermal2_Firm_2_6 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/7' element={<Thermal2_Firm_2_7 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/8' element={<Thermal2_Firm_2_8 />} />
+
+
+        <Route path='/Firmware/Hikvision/Thermal/How to/' element={<Thermal2_How />} />
+        {/* /Firmware/Hikvision/Thermal/How to/ pages */}
+        <Route path='/Firmware/Hikvision/Thermal/How to/1' element={<Thermal2_How_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/2' element={<Thermal2_How_2 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/3' element={<Thermal2_How_3 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/4' element={<Thermal2_How_4 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/5' element={<Thermal2_How_5 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/6' element={<Thermal2_How_6 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/7' element={<Thermal2_How_7 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/8' element={<Thermal2_How_8 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/9' element={<Thermal2_How_9 />} />
+
+
+        <Route path='/Firmware/Hikvision/Thermal/Soft/' element={<Thermal2_Soft />} />
+        {/* /Firmware/Hikvision/Thermal/Soft/ */}
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1' element={<Thermal2_Soft_1 />} />
+        {/* /Firmware/Hikvision/Thermal/Soft/1 pages */}
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1/1' element={<Thermal2_Soft_1_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1/2' element={<Thermal2_Soft_1_2 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1/3' element={<Thermal2_Soft_1_3 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1/4' element={<Thermal2_Soft_1_4 />} />
+
+
+
+
         <Route path='/Firmware/Hikvision/Storage/' element={<Storage2 />} />
         <Route path='/Firmware/Hikvision/Storage/Hybrid SAN/' element={<StorageHybridSAN />} />
         <Route path='/Firmware/Hikvision/Storage/Hybrid SAN/1. Firmware/' element={<HybridSAN1Firmware />} />
@@ -2049,6 +2285,73 @@ function App() {
         {/* ids_2_2 pages */}
         <Route path='/Firmware/Hikvision/IP Camera/Other/pids_2_2_1' element={<Other_2_2_2_1 />} />
         <Route path='/Firmware/Hikvision/IP Camera/Other/pids_2_2_2' element={<Other_2_2_2_2 />} />
+
+
+
+        {/* /Firmware/HiWatch Value/ DVR (TVI regs)/ */}
+        <Route path='/Firmware/HiWatch Value/ DVR (TVI regs)/' element={<HW_DVR />} />
+
+        {/* /Firmware/Hikvision/DVR (TVI regs)/1mpx - G series/ */}
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/1mpx - G series/' element={<HW_DVR_1mpx />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/1mpx - G series/1' element={<HW_DVR_1mpx_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/1mpx - G series/2' element={<HW_DVR_1mpx_2 />} />
+
+        {/* /Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/ */}
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/' element={<HW_DVR_2mpx />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/1' element={<HW_DVR_2mpx_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/2' element={<HW_DVR_2mpx_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/2/1' element={<HW_DVR_2mpx_2_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/2/2' element={<HW_DVR_2mpx_2_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/2/3' element={<HW_DVR_2mpx_2_3 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/3' element={<HW_DVR_2mpx_3 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/3/1' element={<HW_DVR_2mpx_3_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/3/2' element={<HW_DVR_2mpx_3_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/4' element={<HW_DVR_2mpx_4 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/5' element={<HW_DVR_2mpx_5 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/6' element={<HW_DVR_2mpx_6 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/7' element={<HW_DVR_2mpx_7 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/7/1' element={<HW_DVR_2mpx_7_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/7/2' element={<HW_DVR_2mpx_7_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/8' element={<HW_DVR_2mpx_8 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/8/1' element={<HW_DVR_2mpx_8_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/8/2' element={<HW_DVR_2mpx_8_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/9' element={<HW_DVR_2mpx_9 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/10' element={<HW_DVR_2mpx_10 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/2mpx - Q series/11' element={<HW_DVR_2mpx_11 />} />
+
+        {/* /Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/ */}
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/' element={<HW_DVR_5mpx />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/1' element={<HW_DVR_5mpx_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/2' element={<HW_DVR_5mpx_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/2/1' element={<HW_DVR_5mpx_2_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/2/2' element={<HW_DVR_5mpx_2_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/3' element={<HW_DVR_5mpx_3 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/3/1' element={<HW_DVR_5mpx_3_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/3/2' element={<HW_DVR_5mpx_3_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/3/3' element={<HW_DVR_5mpx_3_3 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/4' element={<HW_DVR_5mpx_4 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/5' element={<HW_DVR_5mpx_5 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/6' element={<HW_DVR_5mpx_6 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/7' element={<HW_DVR_5mpx_7 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/7/1' element={<HW_DVR_5mpx_7_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/7/2' element={<HW_DVR_5mpx_7_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/8' element={<HW_DVR_5mpx_8 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/8/1' element={<HW_DVR_5mpx_8_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/8/2' element={<HW_DVR_5mpx_8_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/8/3' element={<HW_DVR_5mpx_8_3 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/9' element={<HW_DVR_5mpx_9 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/10' element={<HW_DVR_5mpx_10 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/10/1' element={<HW_DVR_5mpx_10_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/5mpx - U series/11' element={<HW_DVR_5mpx_11 />} />
+
+        {/* /Firmware/Hikvision/DVR (TVI regs)/8mpx - T series/ */}
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/8mpx - T series/' element={<HW_DVR_8mpx />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/8mpx - T series/1' element={<HW_DVR_8mpx_1 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/8mpx - T series/2' element={<HW_DVR_8mpx_2 />} />
+        <Route path='/Firmware/Hikvision/DVR (TVI regs)/8mpx - T series/3' element={<HW_DVR_8mpx_3 />} />
+
+        {/* /Firmware/HiWatch Value/Video Intercom/ */}
+        <Route path='/Firmware/HiWatch Value/Video Intercom/' element={<Video_Intercom />} />
 
 
 
