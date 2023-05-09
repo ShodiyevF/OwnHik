@@ -887,24 +887,87 @@ import VideInterCom_4_2_2 from './pages/VideInterCom_4_2_2';
 import VideInterCom_4_2_2_1 from './pages/VideInterCom_4_2_2_1.JSX';
 import VideInterCom_4_2_2_2 from './pages/VideInterCom_4_2_2_2';
 import VideInterCom_4_2_2_3 from './pages/VideInterCom_4_2_2_3';
-import Network_Switch from './pages/Network_Switch';
-import Network_Wire from './pages/Network_Wire';
-import Network_Switch_1 from './pages/Network_Switch_1';
-import Network_Switch_2 from './pages/Network_Switch_2';
-import Network_Switch_3 from './pages/Network_Switch_3';
-import Network_Switch_4 from './pages/Network_Switch_4';
-import Network_Switch_5 from './pages/Network_Switch_5';
-import Network_Switch_6 from './pages/Network_Switch_6';
-import Network_Switch_7 from './pages/Network_Switch_7';
-import Network_Switch_8 from './pages/Network_Switch_8';
-import Network_Switch_9 from './pages/Network_Switch_9';
-import Network_Switch_10 from './pages/Network_Switch_10';
-import Network_Switch_11 from './pages/Network_Switch_11';
-import Network_Switch_12 from './pages/Network_Switch_12';
-import Network_Switch_13 from './pages/Network_Switch_13';
-import Network_Switch_14 from './pages/Network_Switch_14';
-import Network_Switch_15 from './pages/Network_Switch_15';
-import Network_Switch_16 from './pages/Network_Switch_16';
+// import Network_Switch from './pages/Network_Switch';
+// import Network_Wire from './pages/Network_Wire';
+// import Network_Switch_1 from './pages/Network_Switch_1';
+// import Network_Switch_2 from './pages/Network_Switch_2';
+// import Network_Switch_3 from './pages/Network_Switch_3';
+// import Network_Switch_4 from './pages/Network_Switch_4';
+// import Network_Switch_5 from './pages/Network_Switch_5';
+// import Network_Switch_6 from './pages/Network_Switch_6';
+// import Network_Switch_7 from './pages/Network_Switch_7';
+// import Network_Switch_8 from './pages/Network_Switch_8';
+// import Network_Switch_9 from './pages/Network_Switch_9';
+// import Network_Switch_10 from './pages/Network_Switch_10';
+// import Network_Switch_11 from './pages/Network_Switch_11';
+// import Network_Switch_12 from './pages/Network_Switch_12';
+// import Network_Switch_13 from './pages/Network_Switch_13';
+// import Network_Switch_14 from './pages/Network_Switch_14';
+// import Network_Switch_15 from './pages/Network_Switch_15';
+// import Network_Switch_16 from './pages/Network_Switch_16';
+import Thermal2_Firm from './pages/Thermal2_Firm';
+import Thermal2_How from './pages/Thermal2_How';
+import Thermal2_Soft from './pages/Thermal2_Soft';
+import Thermal2_Firm_1 from './pages/Thermal2_Firm_1';
+import Thermal2_Firm_2 from './pages/Thermal2_Firm_2';
+import Thermal2_Firm_1_1 from './pages/Thermal2_Firm_1_1';
+import Thermal2_Firm_1_2 from './pages/Thermal2_Firm_1_2';
+import Thermal2_Firm_1_3 from './pages/Thermal2_Firm_1_3';
+import Thermal2_Firm_2_1 from './pages/Thermal2_Firm_2_1';
+import Thermal2_Firm_2_2 from './pages/Thermal2_Firm_2_2';
+import Thermal2_Firm_2_3 from './pages/Thermal2_Firm_2_3';
+import Thermal2_Firm_2_4 from './pages/Thermal2_Firm_2_4';
+import Thermal2_Firm_2_5 from './pages/Thermal2_Firm_2_5';
+import Thermal2_Firm_2_6 from './pages/Thermal2_Firm_2_6';
+import Thermal2_Firm_2_7 from './pages/Thermal2_Firm_2_7';
+import Thermal2_Firm_2_8 from './pages/Thermal2_Firm_2_8';
+import Thermal2_How_1 from './pages/Thermal2_How_1';
+import Thermal2_How_2 from './pages/Thermal2_How_2';
+import Thermal2_How_3 from './pages/Thermal2_How_3';
+import Thermal2_How_4 from './pages/Thermal2_How_4';
+import Thermal2_How_5 from './pages/Thermal2_How_5';
+import Thermal2_How_6 from './pages/Thermal2_How_6';
+import Thermal2_How_7 from './pages/Thermal2_How_7';
+import Thermal2_How_8 from './pages/Thermal2_How_8';
+import Thermal2_How_9 from './pages/Thermal2_How_9';
+import Thermal2_Soft_1 from './pages/Thermal2_Soft_1';
+import Thermal2_Soft_1_1 from './pages/Thermal2_Soft_1_1';
+import Thermal2_Soft_1_2 from './pages/Thermal2_Soft_1_2';
+import Thermal2_Soft_1_3 from './pages/Thermal2_Soft_1_3';
+import Thermal2_Soft_1_4 from './pages/Thermal2_Soft_1_4';
+import Keyboards_1 from './pages/Keyboards_1';
+import Keyboards_1_1 from './pages/Keyboards_1_1';
+import Keyboards_1_2 from './pages/Keyboards_1_2';
+import Keyboards_1_3 from './pages/Keyboards_1_3';
+import Keyboards_1_4 from './pages/Keyboards_1_4';
+import Keyboards_1_3_1 from './pages/Keyboards_1_3_1';
+import Keyboards_1_3_2 from './pages/Keyboards_1_3_2';
+import Keyboards_1_3_3 from './pages/Keyboards_1_3_3';
+import Keyboards_1_3_4 from './pages/Keyboards_1_3_4';
+import Keyboards_2 from './pages/Keyboards_2';
+import Keyboards_2_1 from './pages/Keyboards_2_1';
+import Keyboards_2_2 from './pages/Keyboards_2_2';
+import Keyboards_2_3 from './pages/Keyboards_2_3';
+import Keyboards_2_4 from './pages/Keyboards_2_4';
+import Keyboards_2_5 from './pages/Keyboards_2_5';
+import Keyboards_2_6 from './pages/Keyboards_2_6';
+import Keyboards_2_7 from './pages/Keyboards_2_7';
+import Keyboards_2_8 from './pages/Keyboards_2_8';
+import Keyboards_2_9 from './pages/Keyboards_2_9';
+import Keyboards_2_10 from './pages/Keyboards_2_10';
+import Keyboards_4 from './pages/Keyboards_4';
+import Keyboards_5 from './pages/Keyboards_5';
+import Keyboards_5_1 from './pages/Keyboards_5_1';
+import Keyboards_5_2 from './pages/Keyboards_5_2';
+import Keyboards_5_3 from './pages/Keyboards_5_3';
+import Keyboards_5_1_1 from './pages/Keyboards_5_1_1';
+import Keyboards_5_1_2 from './pages/Keyboards_5_1_2';
+import Keyboards_5_1_3 from './pages/Keyboards_5_1_3';
+import Keyboards_5_1_4 from './pages/Keyboards_5_1_4';
+import Keyboards_5_1_5 from './pages/Keyboards_5_1_5';
+import Keyboards_5_1_6 from './pages/Keyboards_5_1_6';
+import Keyboards_5_1_7 from './pages/Keyboards_5_1_7';
+import Keyboards_3 from './pages/Keyboards_3';
 import Video_Intercom from './pages/Video_Intercom';
 import HW_DVR from './pages/HW_DVR';
 import HW_DVR_1mpx from './pages/HW_DVR_1mpx';
@@ -1797,6 +1860,61 @@ function App() {
 
         <Route path='/Firmware/Hikvision/Keyboards/' element={<Keyboards />} />
 
+        {/* /Firmware/Hikvision/Keyboards/ */}
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/' element={<Keyboards_1 />} />
+        {/* /Firmware/Hikvision/Keyboards/DS-1005KI/ pages */}
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/1' element={<Keyboards_1_1 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/2' element={<Keyboards_1_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3' element={<Keyboards_1_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3/1' element={<Keyboards_1_3_1 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3/2' element={<Keyboards_1_3_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3/3' element={<Keyboards_1_3_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/3/4' element={<Keyboards_1_3_4 />} />
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1005KI/4' element={<Keyboards_1_4 />} />
+
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/' element={<Keyboards_2 />} />
+        {/* /Firmware/Hikvision/Keyboards/DS-1100KI/ pages */}
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/1' element={<Keyboards_2_1 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/2' element={<Keyboards_2_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/3' element={<Keyboards_2_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/4' element={<Keyboards_2_4 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/5' element={<Keyboards_2_5 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/6' element={<Keyboards_2_6 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/7' element={<Keyboards_2_7 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/8' element={<Keyboards_2_8 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/9' element={<Keyboards_2_9 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI/10' element={<Keyboards_2_10 />} />
+
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1100KI(B)/' element={<Keyboards_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1200KI&1006KI/' element={<Keyboards_4 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/' element={<Keyboards_5 />} />
+          {/* /Firmware/Hikvision/Keyboards/DS-1600KI/ pages */}
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1' element={<Keyboards_5_1 />} />
+        {/* /Firmware/Hikvision/Keyboards/DS-1600KI/1 pages */}
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/1' element={<Keyboards_5_1_1 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/2' element={<Keyboards_5_1_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/3' element={<Keyboards_5_1_3 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/4' element={<Keyboards_5_1_4 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/5' element={<Keyboards_5_1_5 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/6' element={<Keyboards_5_1_6 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/1/7' element={<Keyboards_5_1_7 />} />
+ 
+
+
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/2' element={<Keyboards_5_2 />} />
+        <Route path='/Firmware/Hikvision/Keyboards/DS-1600KI/3' element={<Keyboards_5_3 />} />
+
+
+
+
+
+
+
+
 
         <Route path='/Firmware/Hikvision/Network/' element={<Network />} />
         {/* /Firmware/Hikvision/Network/Network Switch/ */}
@@ -1825,6 +1943,52 @@ function App() {
 
 
         <Route path='/Firmware/Hikvision/Thermal/' element={<Thermal2 />} />
+      {/* /Firmware/Hikvision/Thermal/ pages */}
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/' element={<Thermal2_Firm />} />
+        {/* pages */}
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/1' element={<Thermal2_Firm_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/1/1' element={<Thermal2_Firm_1_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/1/2' element={<Thermal2_Firm_1_2 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/1/3' element={<Thermal2_Firm_1_3 />} />
+
+
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2' element={<Thermal2_Firm_2 />} />
+        {/* /Firmware/Hikvision/Thermal/Firmware/2 pages */}
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/1' element={<Thermal2_Firm_2_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/2' element={<Thermal2_Firm_2_2 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/3' element={<Thermal2_Firm_2_3 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/4' element={<Thermal2_Firm_2_4 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/5' element={<Thermal2_Firm_2_5 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/6' element={<Thermal2_Firm_2_6 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/7' element={<Thermal2_Firm_2_7 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Firmware/2/8' element={<Thermal2_Firm_2_8 />} />
+
+
+        <Route path='/Firmware/Hikvision/Thermal/How to/' element={<Thermal2_How />} />
+        {/* /Firmware/Hikvision/Thermal/How to/ pages */}
+        <Route path='/Firmware/Hikvision/Thermal/How to/1' element={<Thermal2_How_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/2' element={<Thermal2_How_2 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/3' element={<Thermal2_How_3 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/4' element={<Thermal2_How_4 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/5' element={<Thermal2_How_5 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/6' element={<Thermal2_How_6 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/7' element={<Thermal2_How_7 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/8' element={<Thermal2_How_8 />} />
+        <Route path='/Firmware/Hikvision/Thermal/How to/9' element={<Thermal2_How_9 />} />
+
+
+        <Route path='/Firmware/Hikvision/Thermal/Soft/' element={<Thermal2_Soft />} />
+        {/* /Firmware/Hikvision/Thermal/Soft/ */}
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1' element={<Thermal2_Soft_1 />} />
+        {/* /Firmware/Hikvision/Thermal/Soft/1 pages */}
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1/1' element={<Thermal2_Soft_1_1 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1/2' element={<Thermal2_Soft_1_2 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1/3' element={<Thermal2_Soft_1_3 />} />
+        <Route path='/Firmware/Hikvision/Thermal/Soft/1/4' element={<Thermal2_Soft_1_4 />} />
+
+
+
+
         <Route path='/Firmware/Hikvision/Storage/' element={<Storage2 />} />
         <Route path='/Firmware/Hikvision/Storage/Hybrid SAN/' element={<StorageHybridSAN />} />
         <Route path='/Firmware/Hikvision/Storage/Hybrid SAN/1. Firmware/' element={<HybridSAN1Firmware />} />

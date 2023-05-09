@@ -28,10 +28,10 @@ function Keyboards() {
                              
                             <h5>DS-1600KI/</h5>
                         </Link>
-                        <Link to={'/'} className='button_div2'>
+                        <a href={'http://ftp.hikvision.ru/01.%20Firmware/01.%20Hikvision/08.%20Keyboards/01%20Keyboard%20compatibility%20list.xlsx'} className='button_div2'>
                              
                             <h5>01 Keyboard compatibility list.xlsx</h5>
-                        </Link>
+                        </a>
                     </div>
                      
                 </div>
