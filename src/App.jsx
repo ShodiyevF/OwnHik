@@ -806,6 +806,7 @@ import HiWatchValue_IP_26 from "./pages/HiWatchValue_IP_26";
 import HiWatchValue_IP_27 from "./pages/HiWatchValue_IP_27";
 import HiWatchValue_IP_28 from "./pages/HiWatchValue_IP_28";
 import HiWatchValue_IP_29 from "./pages/HiWatchValue_IP_29";
+import HiWatchValue_IP_29_1 from "./pages/HiWatchValue_IP_29_1";
 import HiWatchValue_IP_3 from "./pages/HiWatchValue_IP_3";
 import HiWatchValue_IP_4 from "./pages/HiWatchValue_IP_4";
 import HiWatchValue_IP_5 from "./pages/HiWatchValue_IP_5";
@@ -813,6 +814,19 @@ import HiWatchValue_IP_6 from "./pages/HiWatchValue_IP_6";
 import HiWatchValue_IP_7 from "./pages/HiWatchValue_IP_7";
 import HiWatchValue_IP_8 from "./pages/HiWatchValue_IP_8";
 import HiWatchValue_IP_9 from "./pages/HiWatchValue_IP_9";
+import HiWatchValue_NVR from "./pages/HiWatchValue_NVR";
+import HiWatchValue_NVR_1 from "./pages/HiWatchValue_NVR_1";
+import HiWatchValue_NVR_2 from "./pages/HiWatchValue_NVR_2";
+import HiWatchValue_NVR_3 from "./pages/HiWatchValue_NVR_3";
+import HiWatchValue_NVR_4 from "./pages/HiWatchValue_NVR_4";
+import HiWatchValue_NVR_5 from "./pages/HiWatchValue_NVR_5";
+import HiWatchValue_NVR_6 from "./pages/HiWatchValue_NVR_6";
+import HiWatchValue_NVR_7 from "./pages/HiWatchValue_NVR_7";
+import HiWatchValue_NVR_8 from "./pages/HiWatchValue_NVR_8";
+import HiWatchValue_NVR_8_1 from "./pages/HiWatchValue_NVR_8_1";
+import HiWatchValue_NVR_8_2 from "./pages/HiWatchValue_NVR_8_2";
+import HiWatchValue_NVR_8_3 from "./pages/HiWatchValue_NVR_8_3";
+import HiWatchValue_NVR_8_4 from "./pages/HiWatchValue_NVR_8_4";
 import Network_Switch from './pages/Network_Switch';
 import Network_Switch_1 from './pages/Network_Switch_1';
 import Network_Switch_10 from './pages/Network_Switch_10';
@@ -905,76 +919,14 @@ import VideInterCom_4_2_2_3 from './pages/VideInterCom_4_2_2_3';
 // import Network_Switch_14 from './pages/Network_Switch_14';
 // import Network_Switch_15 from './pages/Network_Switch_15';
 // import Network_Switch_16 from './pages/Network_Switch_16';
-import Thermal2_Firm from './pages/Thermal2_Firm';
-import Thermal2_How from './pages/Thermal2_How';
-import Thermal2_Soft from './pages/Thermal2_Soft';
-import Thermal2_Firm_1 from './pages/Thermal2_Firm_1';
-import Thermal2_Firm_2 from './pages/Thermal2_Firm_2';
-import Thermal2_Firm_1_1 from './pages/Thermal2_Firm_1_1';
-import Thermal2_Firm_1_2 from './pages/Thermal2_Firm_1_2';
-import Thermal2_Firm_1_3 from './pages/Thermal2_Firm_1_3';
-import Thermal2_Firm_2_1 from './pages/Thermal2_Firm_2_1';
-import Thermal2_Firm_2_2 from './pages/Thermal2_Firm_2_2';
-import Thermal2_Firm_2_3 from './pages/Thermal2_Firm_2_3';
-import Thermal2_Firm_2_4 from './pages/Thermal2_Firm_2_4';
-import Thermal2_Firm_2_5 from './pages/Thermal2_Firm_2_5';
-import Thermal2_Firm_2_6 from './pages/Thermal2_Firm_2_6';
-import Thermal2_Firm_2_7 from './pages/Thermal2_Firm_2_7';
-import Thermal2_Firm_2_8 from './pages/Thermal2_Firm_2_8';
-import Thermal2_How_1 from './pages/Thermal2_How_1';
-import Thermal2_How_2 from './pages/Thermal2_How_2';
-import Thermal2_How_3 from './pages/Thermal2_How_3';
-import Thermal2_How_4 from './pages/Thermal2_How_4';
-import Thermal2_How_5 from './pages/Thermal2_How_5';
-import Thermal2_How_6 from './pages/Thermal2_How_6';
-import Thermal2_How_7 from './pages/Thermal2_How_7';
-import Thermal2_How_8 from './pages/Thermal2_How_8';
-import Thermal2_How_9 from './pages/Thermal2_How_9';
-import Thermal2_Soft_1 from './pages/Thermal2_Soft_1';
-import Thermal2_Soft_1_1 from './pages/Thermal2_Soft_1_1';
-import Thermal2_Soft_1_2 from './pages/Thermal2_Soft_1_2';
-import Thermal2_Soft_1_3 from './pages/Thermal2_Soft_1_3';
-import Thermal2_Soft_1_4 from './pages/Thermal2_Soft_1_4';
-import Keyboards_1 from './pages/Keyboards_1';
-import Keyboards_1_1 from './pages/Keyboards_1_1';
-import Keyboards_1_2 from './pages/Keyboards_1_2';
-import Keyboards_1_3 from './pages/Keyboards_1_3';
-import Keyboards_1_4 from './pages/Keyboards_1_4';
-import Keyboards_1_3_1 from './pages/Keyboards_1_3_1';
-import Keyboards_1_3_2 from './pages/Keyboards_1_3_2';
-import Keyboards_1_3_3 from './pages/Keyboards_1_3_3';
-import Keyboards_1_3_4 from './pages/Keyboards_1_3_4';
-import Keyboards_2 from './pages/Keyboards_2';
-import Keyboards_2_1 from './pages/Keyboards_2_1';
-import Keyboards_2_2 from './pages/Keyboards_2_2';
-import Keyboards_2_3 from './pages/Keyboards_2_3';
-import Keyboards_2_4 from './pages/Keyboards_2_4';
-import Keyboards_2_5 from './pages/Keyboards_2_5';
-import Keyboards_2_6 from './pages/Keyboards_2_6';
-import Keyboards_2_7 from './pages/Keyboards_2_7';
-import Keyboards_2_8 from './pages/Keyboards_2_8';
-import Keyboards_2_9 from './pages/Keyboards_2_9';
-import Keyboards_2_10 from './pages/Keyboards_2_10';
-import Keyboards_4 from './pages/Keyboards_4';
-import Keyboards_5 from './pages/Keyboards_5';
-import Keyboards_5_1 from './pages/Keyboards_5_1';
-import Keyboards_5_2 from './pages/Keyboards_5_2';
-import Keyboards_5_3 from './pages/Keyboards_5_3';
-import Keyboards_5_1_1 from './pages/Keyboards_5_1_1';
-import Keyboards_5_1_2 from './pages/Keyboards_5_1_2';
-import Keyboards_5_1_3 from './pages/Keyboards_5_1_3';
-import Keyboards_5_1_4 from './pages/Keyboards_5_1_4';
-import Keyboards_5_1_5 from './pages/Keyboards_5_1_5';
-import Keyboards_5_1_6 from './pages/Keyboards_5_1_6';
-import Keyboards_5_1_7 from './pages/Keyboards_5_1_7';
-import Keyboards_3 from './pages/Keyboards_3';
-import Video_Intercom from './pages/Video_Intercom';
 import HW_DVR from './pages/HW_DVR';
 import HW_DVR_1mpx from './pages/HW_DVR_1mpx';
 import HW_DVR_1mpx_1 from './pages/HW_DVR_1mpx_1';
 import HW_DVR_1mpx_2 from './pages/HW_DVR_1mpx_2';
 import HW_DVR_2mpx from './pages/HW_DVR_2mpx';
 import HW_DVR_2mpx_1 from './pages/HW_DVR_2mpx_1';
+import HW_DVR_2mpx_10 from './pages/HW_DVR_2mpx_10';
+import HW_DVR_2mpx_11 from './pages/HW_DVR_2mpx_11';
 import HW_DVR_2mpx_2 from './pages/HW_DVR_2mpx_2';
 import HW_DVR_2mpx_2_1 from './pages/HW_DVR_2mpx_2_1';
 import HW_DVR_2mpx_2_2 from './pages/HW_DVR_2mpx_2_2';
@@ -992,10 +944,11 @@ import HW_DVR_2mpx_8 from './pages/HW_DVR_2mpx_8';
 import HW_DVR_2mpx_8_1 from './pages/HW_DVR_2mpx_8_1';
 import HW_DVR_2mpx_8_2 from './pages/HW_DVR_2mpx_8_2';
 import HW_DVR_2mpx_9 from './pages/HW_DVR_2mpx_9';
-import HW_DVR_2mpx_10 from './pages/HW_DVR_2mpx_10';
-import HW_DVR_2mpx_11 from './pages/HW_DVR_2mpx_11';
 import HW_DVR_5mpx from './pages/HW_DVR_5mpx';
 import HW_DVR_5mpx_1 from './pages/HW_DVR_5mpx_1';
+import HW_DVR_5mpx_10 from './pages/HW_DVR_5mpx_10';
+import HW_DVR_5mpx_10_1 from './pages/HW_DVR_5mpx_10_1';
+import HW_DVR_5mpx_11 from './pages/HW_DVR_5mpx_11';
 import HW_DVR_5mpx_2 from './pages/HW_DVR_5mpx_2';
 import HW_DVR_5mpx_2_1 from './pages/HW_DVR_5mpx_2_1';
 import HW_DVR_5mpx_2_2 from './pages/HW_DVR_5mpx_2_2';
@@ -1014,14 +967,118 @@ import HW_DVR_5mpx_8_1 from './pages/HW_DVR_5mpx_8_1';
 import HW_DVR_5mpx_8_2 from './pages/HW_DVR_5mpx_8_2';
 import HW_DVR_5mpx_8_3 from './pages/HW_DVR_5mpx_8_3';
 import HW_DVR_5mpx_9 from './pages/HW_DVR_5mpx_9';
-import HW_DVR_5mpx_10 from './pages/HW_DVR_5mpx_10';
-import HW_DVR_5mpx_10_1 from './pages/HW_DVR_5mpx_10_1';
-import HW_DVR_5mpx_11 from './pages/HW_DVR_5mpx_11';
 import HW_DVR_8mpx from './pages/HW_DVR_8mpx';
 import HW_DVR_8mpx_1 from './pages/HW_DVR_8mpx_1';
 import HW_DVR_8mpx_2 from './pages/HW_DVR_8mpx_2';
 import HW_DVR_8mpx_3 from './pages/HW_DVR_8mpx_3';
-import HiWatchValue_IP_29_1 from "./pages/HiWatchValue_IP_29_1";
+import Keyboards_1 from './pages/Keyboards_1';
+import Keyboards_1_1 from './pages/Keyboards_1_1';
+import Keyboards_1_2 from './pages/Keyboards_1_2';
+import Keyboards_1_3 from './pages/Keyboards_1_3';
+import Keyboards_1_3_1 from './pages/Keyboards_1_3_1';
+import Keyboards_1_3_2 from './pages/Keyboards_1_3_2';
+import Keyboards_1_3_3 from './pages/Keyboards_1_3_3';
+import Keyboards_1_3_4 from './pages/Keyboards_1_3_4';
+import Keyboards_1_4 from './pages/Keyboards_1_4';
+import Keyboards_2 from './pages/Keyboards_2';
+import Keyboards_2_1 from './pages/Keyboards_2_1';
+import Keyboards_2_10 from './pages/Keyboards_2_10';
+import Keyboards_2_2 from './pages/Keyboards_2_2';
+import Keyboards_2_3 from './pages/Keyboards_2_3';
+import Keyboards_2_4 from './pages/Keyboards_2_4';
+import Keyboards_2_5 from './pages/Keyboards_2_5';
+import Keyboards_2_6 from './pages/Keyboards_2_6';
+import Keyboards_2_7 from './pages/Keyboards_2_7';
+import Keyboards_2_8 from './pages/Keyboards_2_8';
+import Keyboards_2_9 from './pages/Keyboards_2_9';
+import Keyboards_3 from './pages/Keyboards_3';
+import Keyboards_4 from './pages/Keyboards_4';
+import Keyboards_5 from './pages/Keyboards_5';
+import Keyboards_5_1 from './pages/Keyboards_5_1';
+import Keyboards_5_1_1 from './pages/Keyboards_5_1_1';
+import Keyboards_5_1_2 from './pages/Keyboards_5_1_2';
+import Keyboards_5_1_3 from './pages/Keyboards_5_1_3';
+import Keyboards_5_1_4 from './pages/Keyboards_5_1_4';
+import Keyboards_5_1_5 from './pages/Keyboards_5_1_5';
+import Keyboards_5_1_6 from './pages/Keyboards_5_1_6';
+import Keyboards_5_1_7 from './pages/Keyboards_5_1_7';
+import Keyboards_5_2 from './pages/Keyboards_5_2';
+import Keyboards_5_3 from './pages/Keyboards_5_3';
+import Thermal2_Firm from './pages/Thermal2_Firm';
+import Thermal2_Firm_1 from './pages/Thermal2_Firm_1';
+import Thermal2_Firm_1_1 from './pages/Thermal2_Firm_1_1';
+import Thermal2_Firm_1_2 from './pages/Thermal2_Firm_1_2';
+import Thermal2_Firm_1_3 from './pages/Thermal2_Firm_1_3';
+import Thermal2_Firm_2 from './pages/Thermal2_Firm_2';
+import Thermal2_Firm_2_1 from './pages/Thermal2_Firm_2_1';
+import Thermal2_Firm_2_2 from './pages/Thermal2_Firm_2_2';
+import Thermal2_Firm_2_3 from './pages/Thermal2_Firm_2_3';
+import Thermal2_Firm_2_4 from './pages/Thermal2_Firm_2_4';
+import Thermal2_Firm_2_5 from './pages/Thermal2_Firm_2_5';
+import Thermal2_Firm_2_6 from './pages/Thermal2_Firm_2_6';
+import Thermal2_Firm_2_7 from './pages/Thermal2_Firm_2_7';
+import Thermal2_Firm_2_8 from './pages/Thermal2_Firm_2_8';
+import Thermal2_How from './pages/Thermal2_How';
+import Thermal2_How_1 from './pages/Thermal2_How_1';
+import Thermal2_How_2 from './pages/Thermal2_How_2';
+import Thermal2_How_3 from './pages/Thermal2_How_3';
+import Thermal2_How_4 from './pages/Thermal2_How_4';
+import Thermal2_How_5 from './pages/Thermal2_How_5';
+import Thermal2_How_6 from './pages/Thermal2_How_6';
+import Thermal2_How_7 from './pages/Thermal2_How_7';
+import Thermal2_How_8 from './pages/Thermal2_How_8';
+import Thermal2_How_9 from './pages/Thermal2_How_9';
+import Thermal2_Soft from './pages/Thermal2_Soft';
+import Thermal2_Soft_1 from './pages/Thermal2_Soft_1';
+import Thermal2_Soft_1_1 from './pages/Thermal2_Soft_1_1';
+import Thermal2_Soft_1_2 from './pages/Thermal2_Soft_1_2';
+import Thermal2_Soft_1_3 from './pages/Thermal2_Soft_1_3';
+import Thermal2_Soft_1_4 from './pages/Thermal2_Soft_1_4';
+import Video_Intercom from './pages/Video_Intercom';
+//  import HiWatchValue_IP_29_1 from "./pages/HiWatchValue_IP_29_1";
+import HiWatchPro_ACCESS from "./pages/HiWatchPro_ACCESS";
+import HiWatchPro_ACCESS_1 from "./pages/HiWatchPro_ACCESS_1";
+import HiWatchPro_ACCESS_2 from "./pages/HiWatchPro_ACCESS_2";
+import HiWatchPro_DVR from "./pages/HiWatchPro_DVR";
+import HiWatchPro_IP from "./pages/HiWatchPro_IP";
+import HiWatchPro_IP_1 from "./pages/HiWatchPro_IP_1";
+import HiWatchPro_IP_2 from "./pages/HiWatchPro_IP_2";
+import HiWatchPro_NVR from "./pages/HiWatchPro_NVR";
+import HiWatchPro_PTZ from "./pages/HiWatchPro_PTZ";
+import HiWatchPro_Thermal from "./pages/HiWatchPro_Thermal";
+import HiWatchPro_VIDEO from "./pages/HiWatchPro_VIDEO";
+import HiWatchValue_PTZ from "./pages/HiWatchValue_PTZ";
+import HiWatchValue_PTZ_1 from "./pages/HiWatchValue_PTZ_1";
+import AccessControl_4 from "./pages/AccessControl_4";
+import Terminal_6_1 from "./pages/Terminal_6_1";
+import Terminal_6_2 from "./pages/Terminal_6_2";
+import Terminal_6_3 from "./pages/Terminal_6_3";
+import Terminal_6_4 from "./pages/Terminal_6_4";
+import Terminal_7_1 from "./pages/Terminal_7_1";
+import Terminal_7_2 from "./pages/Terminal_7_2";
+import Terminal_7_3 from "./pages/Terminal_7_3";
+import Terminal_7_4 from "./pages/Terminal_7_4";
+import Terminal_7_5 from "./pages/Terminal_7_5";
+import Terminal_7_6 from "./pages/Terminal_7_6";
+import Terminal_7_7 from "./pages/Terminal_7_7";
+import Terminal_7_8 from "./pages/Terminal_7_8";
+import Terminal_7_9 from "./pages/Terminal_7_9";
+import Terminal_7_10 from "./pages/Terminal_7_10";
+import Terminal_7_11 from "./pages/Terminal_7_11";
+import Terminal_8_1 from "./pages/Terminal_8_1";
+import Terminal_8_2 from "./pages/Terminal_8_2";
+import Terminal_8_3 from "./pages/Terminal_8_3";
+import Terminal_8_4 from "./pages/Terminal_8_4";
+import Terminal_8_5 from "./pages/Terminal_8_5";
+import Terminal_8_6 from "./pages/Terminal_8_6";
+import Terminal_8_7 from "./pages/Terminal_8_7";
+import Terminal_8_8 from "./pages/Terminal_8_8";
+import Terminal_8_9 from "./pages/Terminal_8_9";
+import Terminal_8_10 from "./pages/Terminal_8_10";
+import Terminal_8_11 from "./pages/Terminal_8_11";
+import Terminal_8_12 from "./pages/Terminal_8_12";
+import Terminal_13_2 from "./pages/Terminal_13_2";
+import Terminal_13_3 from "./pages/Terminal_13_3";
 
 
 
@@ -1081,9 +1138,47 @@ function App() {
         {/* pages */}
         <Route path='/Firmware/HiWatch Value/IP Cameras/29/1' element={<HiWatchValue_IP_29_1 />} />
 
+        {/* /Firmware/HiWatch Value/02. NVR (IP regs)/ */}
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/' element={<HiWatchValue_NVR />} />
+        {/* /Firmware/HiWatch Value/02. NVR (IP regs)/ pages */}
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/1' element={<HiWatchValue_NVR_1 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/2' element={<HiWatchValue_NVR_2 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/3' element={<HiWatchValue_NVR_3 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/4' element={<HiWatchValue_NVR_4 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/5' element={<HiWatchValue_NVR_5 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/6' element={<HiWatchValue_NVR_6 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/7' element={<HiWatchValue_NVR_7 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/8' element={<HiWatchValue_NVR_8 />} />
+        
+        {/* /Firmware/HiWatch Value/NVR (IP regs)/8 pages */}
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/8/1' element={<HiWatchValue_NVR_8_1 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/8/2' element={<HiWatchValue_NVR_8_2 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/8/3' element={<HiWatchValue_NVR_8_3 />} />
+        <Route path='/Firmware/HiWatch Value/NVR (IP regs)/8/4' element={<HiWatchValue_NVR_8_4 />} />
 
+        <Route path='/Firmware/HiWatch Value/PTZ/' element={<HiWatchValue_PTZ />} />
+        {/* /Firmware/HiWatch Value/PTZ/ pages */}
+        <Route path='/Firmware/HiWatch Value/PTZ/1' element={<HiWatchValue_PTZ_1 />} />
+
+
+        
 
         <Route path='/Firmware/HiWatch Pro/' element={<HiWatchPro />} />
+        <Route path='/Firmware/HiWatch Pro/IP Cameras/' element={<HiWatchPro_IP />} />
+        {/* pages */}
+        <Route path='/Firmware/HiWatch Pro/IP Cameras/1' element={<HiWatchPro_IP_1 />} />
+        <Route path='/Firmware/HiWatch Pro/IP Cameras/2' element={<HiWatchPro_IP_2 />} />
+
+        <Route path='/Firmware/HiWatch Pro/NVR (IP regs)/' element={<HiWatchPro_NVR />} />
+        <Route path='/Firmware/HiWatch Pro/PTZ/' element={<HiWatchPro_PTZ />} />
+        <Route path='/Firmware/HiWatch Pro/DVR (TVI regs)/' element={<HiWatchPro_DVR />} />
+        <Route path='/Firmware/HiWatch Pro/Video Intercom/' element={<HiWatchPro_VIDEO />} />
+        <Route path='/Firmware/HiWatch Pro/Access control/' element={<HiWatchPro_ACCESS />} />
+        {/* pages */}
+        <Route path='/Firmware/HiWatch Pro/Access control/1' element={<HiWatchPro_ACCESS_1 />} />
+        <Route path='/Firmware/HiWatch Pro/Access control/2' element={<HiWatchPro_ACCESS_2 />} />
+        <Route path='/Firmware/HiWatch Pro/Thermal/' element={<HiWatchPro_Thermal />} />
+
         <Route path='/Firmware/Hiwatch Ecoline/' element={<HiwatchEcoline />} />
         <Route path='/Firmware/Hiwatch Ecoline/IPC/' element={<HiwatchEcolineIPC />} />
         <Route path='/Firmware/Hiwatch Ecoline/IPC/IPC-B020 IPC-T020/' element={<IPCB020IPCT020 />} />
@@ -1716,15 +1811,57 @@ function App() {
 
         <Route path='/Firmware/Hikvision/Access Control/Terminal/5' element={<Terminal_5 />} />
         <Route path='/Firmware/Hikvision/Access Control/Terminal/6' element={<Terminal_6 />} />
+        {/* pages */}
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/6/1' element={<Terminal_6_1 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/6/2' element={<Terminal_6_2 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/6/3' element={<Terminal_6_3 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/6/4' element={<Terminal_6_4 />} />
         
 
+        
         <Route path='/Firmware/Hikvision/Access Control/Terminal/7' element={<Terminal_7 />} />
+        {/* pages */}
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/7/1' element={<Terminal_7_1 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/7/2' element={<Terminal_7_2 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/7/3' element={<Terminal_7_3 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/7/4' element={<Terminal_7_4 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/7/5' element={<Terminal_7_5 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/7/6' element={<Terminal_7_6 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/7/7' element={<Terminal_7_7 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/7/8' element={<Terminal_7_8 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/7/9' element={<Terminal_7_9 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/7/10' element={<Terminal_7_10 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/7/11' element={<Terminal_7_11 />} />
+        
+        
         <Route path='/Firmware/Hikvision/Access Control/Terminal/8' element={<Terminal_8 />} />
+        {/* pages */}
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/8/1' element={<Terminal_8_1 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/8/2' element={<Terminal_8_2 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/8/3' element={<Terminal_8_3 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/8/4' element={<Terminal_8_4 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/8/5' element={<Terminal_8_5 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/8/6' element={<Terminal_8_6 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/8/7' element={<Terminal_8_7 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/8/8' element={<Terminal_8_8 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/8/9' element={<Terminal_8_9 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/8/10' element={<Terminal_8_10 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/8/11' element={<Terminal_8_11 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/8/12' element={<Terminal_8_12 />} />
+
+
+
         <Route path='/Firmware/Hikvision/Access Control/Terminal/9' element={<Terminal_9 />} />
         <Route path='/Firmware/Hikvision/Access Control/Terminal/10' element={<Terminal_10 />} />
         <Route path='/Firmware/Hikvision/Access Control/Terminal/11' element={<Terminal_11 />} />
         <Route path='/Firmware/Hikvision/Access Control/Terminal/12' element={<Terminal_12 />} />
         <Route path='/Firmware/Hikvision/Access Control/Terminal/13' element={<Terminal_13 />} />
+        {/* pages */}
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/13/2' element={<Terminal_13_2 />} />
+        <Route path='/Firmware/Hikvision/Access Control/Terminal/13/3' element={<Terminal_13_3 />} />
+
+
+
         <Route path='/Firmware/Hikvision/Access Control/Terminal/14' element={<Terminal_14 />} />
         <Route path='/Firmware/Hikvision/Access Control/Terminal/15' element={<Terminal_15 />} />
         <Route path='/Firmware/Hikvision/Access Control/Terminal/16' element={<Terminal_16 />} />
@@ -1771,6 +1908,8 @@ function App() {
         <Route path='/Firmware/Hikvision/Access Control/Access Controller/1/2' element={<AccessControl2_1_1_2 />} />
         <Route path='/Firmware/Hikvision/Access Control/Access Controller/1/3' element={<AccessControl2_1_1_3 />} />
 
+        
+        <Route path='/Firmware/Hikvision/Access Control/Card Issuer & Fingerprint Enrollment Scanner/' element={<AccessControl_4 />} />
 
 
         <Route path='/Firmware/Hikvision/Alarm/' element={<Alarm />} />
