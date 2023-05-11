@@ -12,11 +12,7 @@ function Terminal_23() {
                         <Link to={"/Firmware/Hikvision/Access Control/Terminal/23/1"} className='button_div2'>
                              
                             <h5>V2.0.2_build190301/ </h5>
-                        </Link>
-                        
-                        
-                         
-                        
+                        </Link>                    
                           
                     </div>
                      

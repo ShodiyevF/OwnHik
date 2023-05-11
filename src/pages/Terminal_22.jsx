@@ -21,9 +21,7 @@ function Terminal_22() {
                              
                             <h5>V1.4.0_build220523/</h5>
                         </Link>
-                        
-                         
-                        
+                                                
                           
                     </div>
                      
