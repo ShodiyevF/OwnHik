@@ -14,9 +14,6 @@ function A572() {
               }
               className="button_div2"
             >
-              <i id="clear_" className="material-icons">
-                clear
-              </i>
               <h5>IPCE_E8_EN_STD_ 5.7.2_220113.zip </h5>
             </a>
           </div>
